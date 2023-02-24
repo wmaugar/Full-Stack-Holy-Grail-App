@@ -58,7 +58,7 @@ Full Stack application of Holy Grail typical web page (Frond End) with React, th
 
 The following tools were used in this project:
 
--  FRONT END
+- FRONT END
   - [React](https://pt-br.reactjs.org/)
   - [SuperAgent](https://www.npmjs.com/package/superagent)
 - BACK END
