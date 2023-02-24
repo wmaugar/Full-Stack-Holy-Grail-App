@@ -6,22 +6,22 @@
   <!-- <a href="https://reactholygrail.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Full-Stack Holly Grail App</h1>
+<h1 align="center">Full-Stack Holy Grail App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/Full-Stack-Holly-Grail-App?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/Full-Stack-Holy-Grail-App?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -46,11 +46,11 @@
 
 ## :dart: About ##
 
-Full Stack application of Holly Grail typical web page (Frond End) with React, that comunicates with an express http server (back End) running on node runtime which serves public files for web page and consult a data base build over redis on top a docker platform.  
+Full Stack application of Holy Grail typical web page (Frond End) with React, that comunicates with an express http server (back End) running on node runtime which serves public files for web page and consult a data base build over redis on top a docker platform.  
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Holly Grail web page;\
+:heavy_check_mark: Holy Grail web page;\
 :heavy_check_mark: Express Server running on node;\
 :heavy_check_mark: Redis Data Base on top of docker platform (No Sql);
 
@@ -58,15 +58,15 @@ Full Stack application of Holly Grail typical web page (Frond End) with React, t
 
 The following tools were used in this project:
 
-Browser client
-- [React](https://pt-br.reactjs.org/)
-- [SuperAgent](https://www.npmjs.com/package/superagent)
-Http Server
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://www.npmjs.com/package/express)
-Data Store
-- [redis](https://redis.io/)
-- [docker](https://www.docker.com/)
+-  FRONT END
+  - [React](https://pt-br.reactjs.org/)
+  - [SuperAgent](https://www.npmjs.com/package/superagent)
+- BACK END
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://www.npmjs.com/package/express)
+- DATA STORE
+  - [redis](https://redis.io/)
+  - [docker](https://www.docker.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -76,10 +76,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wmaugar/Full-Stack-Holly-Grail-App
+$ git clone https://github.com/wmaugar/Full-Stack-Holy-Grail-App
 
 # Access
-$ cd Full-Stack-Holly-Grail-App
+$ cd Full-Stack-Holy-Grail-App
 
 # Install dependencies
 $ npm install
